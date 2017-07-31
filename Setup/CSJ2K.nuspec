@@ -65,5 +65,7 @@
         <file src="..\CSJ2K.Android\bin\Release\CSJ2K.pdb" target="lib\MonoAndroid1" />
         <file src="..\CSJ2K.iOS\bin\Release\CSJ2K.dll" target="lib\Xamarin.iOS10" />
         <file src="..\CSJ2K.iOS\bin\Release\CSJ2K.pdb" target="lib\Xamarin.iOS10" />
+        <file src="..\CSJ2K.Mac\bin\Release\CSJ2K.dll" target="lib\Xamarin.Mac20" />
+        <file src="..\CSJ2K.Mac\bin\Release\CSJ2K.pdb" target="lib\Xamarin.Mac20" />
     </files>
 </package>
